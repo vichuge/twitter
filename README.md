@@ -10,6 +10,10 @@ This is a basice twitter clone, made for student purposes.
 - Rails 6.1.1
 - Windows subsystem Linux (Ubuntu 20.04.1 LTS)
 
+## Live demo
+
+You can see the live demo [here!](https://mighty-refuge-30456.herokuapp.com/)
+
 ### Install
 
 Install Ruby and Rails on your local machine.
